@@ -1,0 +1,25 @@
+.main-head{
+    text-align: center;
+}
+
+.download-wrapper{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.download-btn{
+    background-color: aquamarine;
+    text-decoration: none;
+    font-family: Helvetica, sans-serif;
+    color: black;
+    padding: 20px 40px 20px 40px;
+    border-radius: 10px;
+    transition: 500ms;
+}
+
+.download-btn:hover{
+    box-shadow: 5px 5px 50px rgba(0, 0, 0, 0.096);
+}
